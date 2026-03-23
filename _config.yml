@@ -1,8 +1,8 @@
-title: My Blog
+title: Hatwalne
 description: >-
   Personal blog migrated from WordPress.
-url: ""          # your GitHub Pages URL, e.g. https://username.github.io
-baseurl: ""      # leave empty for root domain, or "/repo-name" for project pages
+url: "https://cartoonpi.github.io"
+baseurl: "/hatwalne-blog"
 theme: minima    # free Jekyll theme; swap for any Gem-based theme
 
 # Build settings
