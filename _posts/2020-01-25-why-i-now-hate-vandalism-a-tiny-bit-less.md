@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Why I now hate vandalism a tiny bit less"
+date: 2020-01-25 10:52:35 
+categories: ["Uncategorized"]
+tags: ["India", "Society", "Vandalism"]
+---
+I used to hate vandalism from the core of my being. I am not talking about vandalism which is politically or religiously motivated. I am talking about people who just carve there own name on the walls of public buildings .I mean, here I am traveling hundreds of kilometers, spending thousands of rupees to see, observe and enjoy an old fort or a temple. But what do I see smeared on the centuries old walls? Rajesh ❤ Seema painted in a bad handwriting. And I would get filled with rage. I would have a visceral reaction as if I am hearing a metal screech. But that changed a bit in last few months. ![](https://cdn-images-1.medium.com/max/800/1*rQBff-kPmbnaeLQAnT-mMA.png)
+ The kind of vandalism I am talking about.
+
+_The kind of vandalism I am talking about._
+
+Because I am pathologically bad at empathy, I used to picture these “Vandals” as villains in my mind. These miscreant creatures, on to destroying all that is old, natural or beautiful. I would wonder, have these people no appreciation for history and natural beauty. or are these people so self obsessed and narcissistic to assume that plastering their names on these monuments is more important than letting others appreciate their beauty. But then I realized the thinking of these vandals probably line up pretty well with the thinking of people who built many of these monuments. I mean, for someone who loves nature but hate man made buildings or perhaps just white marble, Taj Mahal is one big vandalism project on banks of Yamuna river. Many of the big Mosques/ temples were built to express the glory of the kingdom and many of the fancy palaces are just kings and queens showing off their wealth from their grave. 
+
+* * *
+
+I still hate vandalism. You are destroying something beautiful to make something remarkable. But I kinda get it. I get why someone might want to do it. There are simply better ways for a modern man/woman to express his/her love and affection. If you are someone considering vandalizing the next public place you can get hold of, please consider one of the following alternative option. **Social media:** As much as I hate cheesy social medial posts declaring love and hate, I would much prefer to see one of these every few days than see some temple vandalized. **Tattoo:** This seems to be the most logical solution to the problem. Your body is the best canvas to declare your love, hate and all other emotions. Why showcase your love to some random tourist who you will never meet when you can show it to literally everyone you meet? Plus it is your body and you can absolutely do anything you want with it. **Your own home/walls:** Paint on your own walls, clothes, toilet or anything else you own. Again, the message is: don’t destroy the public property. **Don’t do it at all:** I know not doing something is not often a better way to do it. But in this case, it probably is. This kind of vandalism is probably not adding any value to your life. No one is going to remember you a few centuries from now. Especially random tourists visiting some monuments. To quote world’s favorite side-kick Morty Shanchez-“Nobody exists on purpose. Nobody belongs anywhere. Everybody’s gonna die. Come watch TV?” ![](https://cdn-images-1.medium.com/max/800/1*iwQxJhd6FJ6mIRbAnZKDXg.jpeg)

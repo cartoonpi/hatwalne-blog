@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% seo %}
+  {% feed_meta %}
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="{{ site.baseurl }}/" class="site-title"><strong>{{ site.title }}</strong></a>
+      <a href="{{ site.baseurl }}/about/">About</a>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+  </footer>
+  {%- comment -%}
+  Image baseurl fix: Jekyll's kramdown renderer does not automatically
+  prepend baseurl to Markdown image paths. We use JavaScript as a
+  lightweight fallback so images work on both root-domain and
+  project-page (username.github.io/repo) deployments.
+  {%- endcomment -%}
+  {% if site.baseurl != "" %}
+  <script>
+    (function() {
+      var base = "{{ site.baseurl }}";
+      if (!base) return;
+      document.querySelectorAll('img').forEach(function(img) {
+        var src = img.getAttribute('src');
+        if (src && src.startsWith('/') && !src.startsWith(base)) {
+          img.setAttribute('src', base + src);
+        }
+      });
+    })();
+  </script>
+  {% endif %}
+</body>
+</html>
