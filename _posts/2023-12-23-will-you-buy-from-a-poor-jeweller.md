@@ -4,7 +4,7 @@ title: "Will you buy from a poor Jeweller?"
 date: 2023-12-23 12:14:49 
 categories: ["Uncategorized"]
 ---
-![](/assets/uploads/2023/12/DALL·E-2023-12-23-17.44.02-An-image-portraying-a-modern-Indian-jeweler-in-a-bustling-bazaar-shop.-The-jeweler-stands-confidently-behind-a-glass-display-counter-showcasing-an-ar.png)
+![](/assets/uploads/2023/12/DALLE-2023-12-23-17.44.02-An-image-portraying-a-modern-Indian-jeweler-in-a-bustling-bazaar-shop.-The-jeweler-stands-confidently-behind-a-glass-display-counter-showcasing-an-ar.png)
 
 Picture this, you are at a small jeweler’s shop. The attendant helps you find a gold ring that’s just right for you. The price also seems reasonable, so buying the ring is a no-brainer. You move to the cash counter only to see a guy slouching on the seat. He has an unkempt beard and is wearing nothing but an old round-neck tee and worn-out sports shorts. Would you still go ahead and buy the ring? Will you at least hesitate once?
 
