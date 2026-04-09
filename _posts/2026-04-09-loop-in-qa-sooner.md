@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Loop in QA sooner"
-date: 2026-04-09 12:00:00
+date: 2026-04-09
 categories: []
 tags: []
 ---
